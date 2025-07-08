@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Candy Crush Lite</h1>
+    <h1>Block Puzzle</h1>
     <div id="game-container">
         <div id="score-display">Score: 0</div>
         <div id="game-grid"></div>
