@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Candy Crush Lite</title>
+    <title>Block Puzzle</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
